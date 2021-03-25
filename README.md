@@ -1,4 +1,4 @@
 - 👋 Привет, я velikoss
-- 👀 Я знаю C++, C#, Java, JS, Python, а также создаю смайты на WordPress
+- 👀 Я знаю C++, C#, Java, JS, Python, а также создаю сайты на WordPress
 - 🌱 Люблю рыться в чужом коде и реверс инженерить 
 - 📫 vk.com/velikoss
