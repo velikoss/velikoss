@@ -10,7 +10,7 @@ My name is Kirill. I program for competitions, scientific stuff and just for fun
 
 ### ⚒️ Coding on
 
-##### C++ (Competitions) / C# (Unity && WinForms) / Python (Science projects)
+##### C++ (Competitions) / C# (Unity && WinForms) / Python (Science projects) / Java (Minecraft plugins)
 
 ### 📈 GitHub Stats
 <p align="center">
