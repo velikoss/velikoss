@@ -21,3 +21,8 @@ My name is Kirill. I program for competitions, scientific stuff and just for fun
   </tr>   
 </table>
 </p>
+
+### 📈 Codewars Stats
+<p align="center">
+  <img src="https://www.codewars.com/users/velikoss/badges/small" />
+</p>
