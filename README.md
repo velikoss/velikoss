@@ -14,7 +14,7 @@ My name is Kirill. I program for competitions, scientific stuff and just for fun
 
 ### 📈 GitHub Stats
 <p align="center">
-  <table>
+  <table border="0" >
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=velikoss&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1114" /></td>
       <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velikoss&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1114"/></td>
@@ -24,5 +24,8 @@ My name is Kirill. I program for competitions, scientific stuff and just for fun
 
 ### 📈 Codewars Stats
 <p align="center">
-  <img src="https://www.codewars.com/users/velikoss/badges/large" />
+  <table>
+    <tr><img src="https://www.codewars.com/users/velikoss/badges/large" /></tr>
+    <tr><img src="https://github-readme-stats.vercel.app/api/pin/?username=velikoss&repo=codewars&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1114" ></tr>
+</table>
 </p>
