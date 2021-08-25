@@ -26,6 +26,6 @@ My name is Kirill. I program for competitions, scientific stuff and just for fun
 <p align="center">
   <table>
     <tr><img src="https://www.codewars.com/users/velikoss/badges/large" /></tr>
-    <tr><a href="github.com/velikoss/codewars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=velikoss&repo=codewars&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1114"></a></tr>
+    <tr><a href="https://github.com/velikoss/codewars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=velikoss&repo=codewars&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1114"></a></tr>
 </table>
 </p>
