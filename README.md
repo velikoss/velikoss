@@ -1,2 +1,2 @@
-- Hi! I'm @velikoss
-- @velikoss in Telegram & VK
+- 👋 Hi! I'm @velikoss
+- 📱 @velikoss in Telegram & VK
